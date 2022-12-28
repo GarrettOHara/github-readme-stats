@@ -296,7 +296,7 @@ _참고:
 `?username=` 속성의 값을 [Wakatime](https://wakatime.com) 계정의 사용자 명(닉네임)으로 바꿔주세요.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### 미리보기

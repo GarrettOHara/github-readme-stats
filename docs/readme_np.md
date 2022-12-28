@@ -275,14 +275,14 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ###  डेमो
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -332,7 +332,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - वक समय कार्ड 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

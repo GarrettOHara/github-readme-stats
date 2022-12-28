@@ -410,7 +410,7 @@ You can use the `&layout=compact` option to change the card design.
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 > **Note**:
@@ -418,13 +418,13 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ### Demo
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 -   Compact layout
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
 
@@ -478,7 +478,7 @@ Choose from any of the [default themes](#themes)
 
 -   WakaTime card
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
 

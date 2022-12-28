@@ -251,18 +251,18 @@ Du kannst die `&layout=compact` Option nutzen, um das Kartendesign zu ändern.
 Ändere `?username=` in den eigenen [Wakatime](https://wakatime.com)-Benutzernamen.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Beispiel
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - Kompaktes Layout
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

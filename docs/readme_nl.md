@@ -281,14 +281,14 @@ Je kan de `&layout=compact` optie gebruiken om het kaart ontwerp aan te passen.
 Verander de `?username=` waarde naar je [Wakatime](https://wakatime.com) gebruikersnaam.
 
 ```md
-[![willianrod's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Demo
 
-[![willianrod's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -338,7 +338,7 @@ Kies uit de [standaard thema\'s](#themes)
 
 - Wakatime kaart
 
-[![willianrod's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
+[![Garrett's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garrettohara)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
